@@ -1,0 +1,7 @@
+C:\Users\Azaze\Downloads\INSTALADOR\OLT-ONU.pdb
+C:\Users\Azaze\Downloads\INSTALADOR\D3DCompiler_47_cor3.dll
+C:\Users\Azaze\Downloads\INSTALADOR\PenImc_cor3.dll
+C:\Users\Azaze\Downloads\INSTALADOR\PresentationNative_cor3.dll
+C:\Users\Azaze\Downloads\INSTALADOR\vcruntime140_cor3.dll
+C:\Users\Azaze\Downloads\INSTALADOR\wpfgfx_cor3.dll
+C:\Users\Azaze\Downloads\INSTALADOR\OLT-ONU.exe

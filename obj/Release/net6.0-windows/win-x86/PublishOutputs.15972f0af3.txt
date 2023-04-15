@@ -1,0 +1,7 @@
+C:\Users\Azazel\Downloads\INSTALADOR CONF-ONU\OLT-ONU.pdb
+C:\Users\Azazel\Downloads\INSTALADOR CONF-ONU\D3DCompiler_47_cor3.dll
+C:\Users\Azazel\Downloads\INSTALADOR CONF-ONU\PenImc_cor3.dll
+C:\Users\Azazel\Downloads\INSTALADOR CONF-ONU\PresentationNative_cor3.dll
+C:\Users\Azazel\Downloads\INSTALADOR CONF-ONU\vcruntime140_cor3.dll
+C:\Users\Azazel\Downloads\INSTALADOR CONF-ONU\wpfgfx_cor3.dll
+C:\Users\Azazel\Downloads\INSTALADOR CONF-ONU\OLT-ONU.exe

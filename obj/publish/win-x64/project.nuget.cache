@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fWCDZiRwiK9czFoqtBL34A+amZ3OUXuPxwPnQzuf9gxca6qlmbcyBfd6admrADK8HV35l8PFlrpqyQJskVIJQQ==",
+  "success": true,
+  "projectFilePath": "F:\\Programa\\Programa\\OLT-ONU\\OLT-ONU.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Azaze\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.15\\microsoft.netcore.app.runtime.win-x64.6.0.15.nupkg.sha512",
+    "C:\\Users\\Azaze\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.15\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.15.nupkg.sha512",
+    "C:\\Users\\Azaze\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.15\\microsoft.aspnetcore.app.runtime.win-x64.6.0.15.nupkg.sha512",
+    "C:\\Users\\Azaze\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.15\\microsoft.netcore.app.crossgen2.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

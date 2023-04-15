@@ -1,0 +1,17 @@
+D:\Programa\Programa\OLT-ONU\bin\Release\net6.0-windows\win-x64\OLT-ONU.exe
+D:\Programa\Programa\OLT-ONU\bin\Release\net6.0-windows\win-x64\OLT-ONU.deps.json
+D:\Programa\Programa\OLT-ONU\bin\Release\net6.0-windows\win-x64\OLT-ONU.runtimeconfig.json
+D:\Programa\Programa\OLT-ONU\bin\Release\net6.0-windows\win-x64\OLT-ONU.dll
+D:\Programa\Programa\OLT-ONU\bin\Release\net6.0-windows\win-x64\OLT-ONU.pdb
+D:\Programa\Programa\OLT-ONU\obj\Release\net6.0-windows\win-x64\OLT-ONU.csproj.AssemblyReference.cache
+D:\Programa\Programa\OLT-ONU\obj\Release\net6.0-windows\win-x64\OLT_ONU.Form1.resources
+D:\Programa\Programa\OLT-ONU\obj\Release\net6.0-windows\win-x64\OLT-ONU.csproj.GenerateResource.cache
+D:\Programa\Programa\OLT-ONU\obj\Release\net6.0-windows\win-x64\OLT-ONU.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programa\Programa\OLT-ONU\obj\Release\net6.0-windows\win-x64\OLT-ONU.AssemblyInfoInputs.cache
+D:\Programa\Programa\OLT-ONU\obj\Release\net6.0-windows\win-x64\OLT-ONU.AssemblyInfo.cs
+D:\Programa\Programa\OLT-ONU\obj\Release\net6.0-windows\win-x64\OLT-ONU.csproj.CoreCompileInputs.cache
+D:\Programa\Programa\OLT-ONU\obj\Release\net6.0-windows\win-x64\OLT-ONU.dll
+D:\Programa\Programa\OLT-ONU\obj\Release\net6.0-windows\win-x64\refint\OLT-ONU.dll
+D:\Programa\Programa\OLT-ONU\obj\Release\net6.0-windows\win-x64\OLT-ONU.pdb
+D:\Programa\Programa\OLT-ONU\obj\Release\net6.0-windows\win-x64\OLT-ONU.genruntimeconfig.cache
+D:\Programa\Programa\OLT-ONU\obj\Release\net6.0-windows\win-x64\ref\OLT-ONU.dll
